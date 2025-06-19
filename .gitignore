@@ -1,0 +1,24 @@
+# Arquivos de build
+/Debug/
+/Release/
+*.o
+*.a
+*.so
+*.dll
+*.exe
+
+# Arquivos temporários
+*~
+.*.swp
+.vscode/
+.idea/
+
+# Arquivos de configuração
+.DS_Store
+.env
+.project
+.cproject
+
+# Bibliotecas
+/lib/
+/include/
