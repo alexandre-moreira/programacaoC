@@ -1,0 +1,8 @@
+Inicio
+  Solicitar ao usuario um numero
+  Receber o numero fornecido
+  Se o numero for divisivel por 2 entao
+     Exibir "O numero e par"
+  Senao
+     Exibir "O numero e impar"
+Fim
